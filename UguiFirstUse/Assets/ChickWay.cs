@@ -1,9 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 //using System.Diagnostics;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 using UnityEngine.UI;
-//using UnityEditor.SceneManagement;
+
 public class ChickWay : MonoBehaviour
 {
     public Button button;
@@ -17,6 +18,7 @@ public class ChickWay : MonoBehaviour
     {
         //string scenceName = "01-Sence";
         Debug.Log("Click");
-        Application.LoadLevel("01-Scene");
+        //Application.LoadLevel("01-Scene");
+        SceneManager.LoadScene("01-Scene");
     }
 }
