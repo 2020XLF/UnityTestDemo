@@ -1,0 +1,289 @@
+Initiating legacy licensing module
+
+LICENSE SYSTEM [2020616 16:42:17] Next license update check is after 2030-06-10T00:00:00
+
+Built from '2018.4/staging' branch; Version is '2018.4.19f1 (459f70f82ea4) revision 4562800'; Using compiler version '191326128'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'zh' Physical Memory: 16165 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+[Package Manager] Server::Start -- Port 57030 was selected
+
+ COMMAND LINE ARGUMENTS:
+C:\progra~1\Unity\2018_4_19\Editor\Unity.exe
+-quit
+-batchmode
+-projectPath
+E:/myGitProject/UnityTestDemo/UguiFirstUse/UGUIFirstUse
+-logFile
+E:\myGitProject\UnityTestDemo\UguiFirstUse\UGUIFirstUse/unity_log.log
+-executeMethod
+Cshape.TestFunc
+Successfully changed project path to: E:/myGitProject/UnityTestDemo/UguiFirstUse/UGUIFirstUse
+E:/myGitProject/UnityTestDemo/UguiFirstUse/UGUIFirstUse
+Using Asset Import Pipeline V1.
+Initiating legacy licensing module
+Loading GUID <-> Path mappings...0.000059 seconds
+Loading Asset Database...0.005171 seconds
+Build target: OSXUniversal found and added!
+Build target: WindowsStoreApps found and added!
+Build target: Win64 found and added!
+Build target: Win found and added!
+Build target: LinuxUniversal found and added!
+Build target: Linux64 found and added!
+Build target: Linux found and added!
+Build target: iOS found and added!
+Build target: tvOS found and added!
+Build target: PS4 found and added!
+Build target: XboxOne found and added!
+Build target: Android found and added!
+Build target: WebGL found and added!
+Build target: Switch found and added!
+Build target: Lumin found and added!
+Build target: PSM found and added!
+Build target: PSP2 found and added!
+Build target: WiiU found and added!
+Build target: Web found and added!
+Build target: WebStreamed found and added!
+Build target: OSXIntel found and added!
+Build target: OSXIntel64 found and added!
+Build target: BlackBerry found and added!
+Build target: PS3 found and added!
+Build target: N3DS found and added!
+Build target: WP8 found and added!
+Build target: SamsungTV found and added!
+Build target: Tizen found and added!
+AssetDatabase consistency checks...0.013014 seconds
+Refreshing native plugins compatible for Editor in 6.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+DisplayProgressbar: Unity Package Manager
+[Package Manager] Done resolving packages in 0.19s seconds
+[Package Manager] Registering 36 packages:
+[Package Manager]  * Package :  com.unity.ads@2.0.8
+    (location: E:\myGitProject\UnityTestDemo\UguiFirstUse\UGUIFirstUse\Library\PackageCache\com.unity.ads@2.0.8)
+[Package Manager]  * Package :  com.unity.analytics@3.2.3
+    (location: E:\myGitProject\UnityTestDemo\UguiFirstUse\UGUIFirstUse\Library\PackageCache\com.unity.analytics@3.2.3)
+[Package Manager]  * Package :  com.unity.collab-proxy@1.2.15
+    (location: E:\myGitProject\UnityTestDemo\UguiFirstUse\UGUIFirstUse\Library\PackageCache\com.unity.collab-proxy@1.2.15)
+[Package Manager]  * Package :  com.unity.package-manager-ui@2.0.8
+    (location: E:\myGitProject\UnityTestDemo\UguiFirstUse\UGUIFirstUse\Library\PackageCache\com.unity.package-manager-ui@2.0.8)
+[Package Manager]  * Package :  com.unity.purchasing@2.0.3
+    (location: E:\myGitProject\UnityTestDemo\UguiFirstUse\UGUIFirstUse\Library\PackageCache\com.unity.purchasing@2.0.3)
+[Package Manager]  * Package :  com.unity.textmeshpro@1.4.1
+    (location: E:\myGitProject\UnityTestDemo\UguiFirstUse\UGUIFirstUse\Library\PackageCache\com.unity.textmeshpro@1.4.1)
+[Package Manager]  * Package :  com.unity.modules.ai@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai)
+[Package Manager]  * Package :  com.unity.modules.animation@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation)
+[Package Manager]  * Package :  com.unity.modules.assetbundle@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle)
+[Package Manager]  * Package :  com.unity.modules.audio@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio)
+[Package Manager]  * Package :  com.unity.modules.cloth@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth)
+[Package Manager]  * Package :  com.unity.modules.director@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director)
+[Package Manager]  * Package :  com.unity.modules.imageconversion@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion)
+[Package Manager]  * Package :  com.unity.modules.imgui@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui)
+[Package Manager]  * Package :  com.unity.modules.jsonserialize@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize)
+[Package Manager]  * Package :  com.unity.modules.particlesystem@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem)
+[Package Manager]  * Package :  com.unity.modules.physics@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics)
+[Package Manager]  * Package :  com.unity.modules.physics2d@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d)
+[Package Manager]  * Package :  com.unity.modules.screencapture@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture)
+[Package Manager]  * Package :  com.unity.modules.terrain@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain)
+[Package Manager]  * Package :  com.unity.modules.terrainphysics@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics)
+[Package Manager]  * Package :  com.unity.modules.tilemap@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap)
+[Package Manager]  * Package :  com.unity.modules.ui@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui)
+[Package Manager]  * Package :  com.unity.modules.uielements@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements)
+[Package Manager]  * Package :  com.unity.modules.umbra@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra)
+[Package Manager]  * Package :  com.unity.modules.unityanalytics@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequest@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequestassetbundle@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequestaudio@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequesttexture@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequestwww@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww)
+[Package Manager]  * Package :  com.unity.modules.vehicles@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles)
+[Package Manager]  * Package :  com.unity.modules.video@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video)
+[Package Manager]  * Package :  com.unity.modules.vr@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr)
+[Package Manager]  * Package :  com.unity.modules.wind@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind)
+[Package Manager]  * Package :  com.unity.modules.xr@1.0.0
+    (location: C:\progra~1\Unity\2018_4_19\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr)
+[Package Manager] Done registering packages in 0.00s seconds
+Initialize engine version: 2018.4.19f1 (459f70f82ea4)
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e98)
+    Vendor:   
+    VRAM:     4169 MB
+    Driver:   26.20.100.7263
+[EnlightenBakeManager] m_Clear = false;
+WARNING: Shader Unsupported: 'AR/TangoARRender' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'AR/TangoARRender' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeOSX' - Pass 'Flip_RGBARect_To_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeOSX' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Pass 'RGBAExternal_To_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Setting to default shader.
+Initialize mono
+Mono path[0] = 'C:/progra~1/Unity/2018_4_19/Editor/Data/Managed'
+Mono path[1] = 'C:/progra~1/Unity/2018_4_19/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/progra~1/Unity/2018_4_19/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Initializing Unity.PackageManager (PackageManager) v2018.4.19 for Unity v2018.4.19f1
+Registering precompiled unity dll's ...
+Register platform support module: C:\progra~1\Unity\2018_4_19\Editor\Data\PlaybackEngines\AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/progra~1/Unity/2018_4_19/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:\progra~1\Unity\2018_4_19\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002185 seconds.
+Registering platform support modules:
+Registered platform support modules in: 0.073057s.
+Native extension for Android target not found
+Native extension for iOS target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.78 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Registering precompiled user dll's ...
+Registered in 0.018092 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Initializing Unity.PackageManager (PackageManager) v2018.4.19 for Unity v2018.4.19f1
+Registering platform support modules:
+Registered platform support modules in: 0.0403722s.
+Native extension for Android target not found
+Native extension for iOS target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.995 seconds
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000117 seconds.
+Refresh: detecting if any assets need to be imported or removed ...
+
+Hashing assets (1 files)... 0.001 seconds
+  file read: 0.000 seconds (0.000 MB)
+  wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
+  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  hash: 0.000 seconds
+----- Compute hash(es) for 1 asset(s).
+
+Connect to CacheServer 172.16.153.76:8126
+Updating Assets/Cshape.cs - GUID: 29a998ee3e4c8864dac29239e4e7d6a7...
+ done. [Time: 55.989300 ms] 
+Unloading 302 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.0 MB.
+System memory in use after: 38.4 MB.
+
+Unloading 200 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 20.850300 ms (FindLiveObjects: 0.229500 ms CreateObjectMapping: 0.020000 ms MarkObjects: 2.661700 ms  DeleteObjects: 17.938100 ms)
+
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp.dll
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+Symbols will be read from Temp\Assembly-CSharp.pdb
+Script Module: Assembly-CSharp.dll
+Pass: 0 took 19 milliseconds
+Pass: 1 took 17 milliseconds
+Assets\ReturnBtn.cs(19,9): warning CS0618: 'Application.LoadLevel(string)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets\ReturnBtn.cs Line: 19)
+
+Assets\ChickWay.cs(20,9): warning CS0618: 'Application.LoadLevel(string)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets\ChickWay.cs Line: 20)
+
+Reloading assemblies after script compilation.
+Begin MonoManager ReloadAssembly
+Initializing Unity.PackageManager (PackageManager) v2018.4.19 for Unity v2018.4.19f1
+Registering platform support modules:
+Registered platform support modules in: 0.0364553s.
+Native extension for Android target not found
+Native extension for iOS target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 4.67 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.929 seconds
+Platform modules already initialized, skipping
+Script Compilation Pipeline Post Process Assets time: 1.502682s
+Assembly Updater Post Process Assets time: 0.000037s
+Disconnect from CacheServer
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.007691s
+	Asset Scan time: 0.006554s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Warming cache for 549 main assets: 0.000638 seconds elapsed
+Initializing Unity extensions:
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll'  GUID: 6a10b2909283487f913b00d94cd3faf5
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/TestRunner/portable/nunit.framework.dll'  GUID: 405b9b51bb344a128608d968297df79c
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll'  GUID: f70555f144d8491a825f0804e09c671c
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'  GUID: f5f67c52d1564df4a8936ccd202a3bd8
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll'  GUID: 844f815391db42d49455cbf1a7bfc434
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll'  GUID: dc443db3e92b4983b9738c1131f555cb
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Runtime/UnityEngine.SpatialTracking.dll'  GUID: ed7343f30e3843b3afda8f8b02669cea
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll'  GUID: 4a3ecb1425d14502837abea459cf2b70
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll'  GUID: 5f32cd94baa94578a686d4b9d6b660f7
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll'  GUID: b5da970776034f77a070d99423d68791
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'  GUID: 870353891bb340e2b2a9c8707e7419ba
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll'  GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll'  GUID: ead147da21254ff9a0a936bdd75e1680
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Runtime/UnityEngine.GoogleAudioSpatializer.dll'  GUID: e4f4cf1b9b434137a499903a7a1d651a
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll'  GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll'  GUID: 3a84de5cd0624681b6b6dcd8921d912a
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll'  GUID: 80a3616ca19596e4da0f10f14d241e9f
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll'  GUID: 4113173d5e95493ab8765d7b08371de4
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll'  GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8
+ 'C:/progra~1/Unity/2018_4_19/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll'  GUID: 7668179ede524d6396c8b7d84461ea29
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 45.7 MB.
+System memory in use after: 45.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 942.
+Total: 2.364000 ms (FindLiveObjects: 0.191500 ms CreateObjectMapping: 0.012900 ms MarkObjects: 2.062700 ms  DeleteObjects: 0.096200 ms)
+
+executeMethod method 'TestFunc' in class 'Cshape' could not be found.
+Argument was -executeMethod Cshape.TestFunc
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Utilities/Argv.cpp Line: 360)
+
+No standard out handle
+
+Aborting batchmode due to failure:
+executeMethod method 'TestFunc' in class 'Cshape' could not be found.
+Argument was -executeMethod Cshape.TestFunc
+
+Exiting without the bug reporter. Application will terminate with return code 1
